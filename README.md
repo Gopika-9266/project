@@ -154,4 +154,4 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 
 ## Result:
-Thus, a python program using OpenCV for following image manipulations is done successfully
+Thus, a python program using OpenCV for following image manipulations is done successfully.
